@@ -1,0 +1,15 @@
+[
+    {
+        "content": "<p><strong>这是由BobH破解的FakeLocationApp的服务端发送的消息</strong></p>\r\n\r\n<p><strong>请勿将此软件用于非法用途，请勿用于出售或非法盈利</strong></p>\r\n\r\n",
+        "createTime": 0,
+        "flavor": "*",
+        "id": "00008",
+        "isAvailable": true,
+        "isNeedAgree": true,
+        "language": "*",
+        "needAgree": true,
+        "title": "破解说明",
+        "type": "text",
+        "weight": 100001
+    }
+]

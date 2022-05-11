@@ -1,0 +1,28 @@
+[
+    {
+        "available": true,
+        "createTime": 0,
+        "intervalTime": 30000,
+        "isAvailable": true,
+        "isRandom": false,
+        "language": "*",
+        "provider": "BobH",
+        "random": false,
+        "texts": "此软件已经连接破解版服务器，无需再进行购买即可免费不限制使用",
+        "urls": "#",
+        "weight": 3
+    },
+    {
+        "available": true,
+        "createTime": 0,
+        "intervalTime": 16000,
+        "isAvailable": true,
+        "isRandom": false,
+        "language": "*",
+        "provider": "BobH",
+        "random": false,
+        "texts": "已经解锁了软件的全部应用模拟功能，不再有特定应用无法使用的问题",
+        "urls": "#",
+        "weight": 2
+    }
+]
