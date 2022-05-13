@@ -1,5 +1,7 @@
 # FakeLocation-Server
 
+[中文](README_CN.md)
+
 ## Introduction
 
 A fake api server for FakeLocation App
@@ -42,7 +44,7 @@ then open the app, and login with any username and password
 
 you can choose any of the methods
 
-### 1. your router(system: OpenWrt)
+### 1. Router (system: OpenWrt)
 
 Go to `Network > DHCP/DNS > DNS hijacking`
 
@@ -54,9 +56,19 @@ notice.api.lerist.cc -> your server ip
 ads.api.lerist.cc -> your server ip
 ```
 
-### 2. Other method
+### 2. Virtual Hosts app
 
-To be updated...
+Download virtual hosts app here: [Release 2.1.0 · x-falcon/Virtual-Hosts (github.com)](https://github.com/x-falcon/Virtual-Hosts/releases/tag/2.1.0)
+
+And edit your hosts.txt like this (suppose your server ip is 192.168.1.5)
+
+```
+192.168.1.5 fakelocation.api.lerist.cc
+192.168.1.5 notice.api.lerist.cc
+192.168.1.5 ads.api.lerist.cc
+```
+
+And connect virtual hosts, open the app and enjoy.
 
 ## Why I made this?
 
