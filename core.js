@@ -15,9 +15,9 @@ const path = require('path');
 // enable this so that when there's a login request, the server will check users.json and verify the password
 const UseVerification = false;
 
-const sharedToken = "T0666f0186548415db1e594fd1e9a96884835";
-const sharedKey = "TiwFHDBEL2OQsvV5hD8I3IqwlBSai3XkBnn/WJzecUs+Dkl4iI6a8SecE7ZQAuqt/p2QL9Dve1a8\ngdS5d19wcAZbGdGq3NuM";
-const sharedUserId = "U6add3391f48b4f689d85f7623a30e571121";
+const sharedToken = "T_CrackedByBobH233";
+const sharedKey = "UsrTjEVxwRaQsvV5hD8I3Db8zrkjuavD/O8hJcVLUOkDimJc6ShgOQEzV5srpEPcOL63J2chFQA=";
+const sharedUserId = "BobH233LoveLerist";
 
 function Init(){
     let usersConfigPath = "";
