@@ -15,7 +15,7 @@ const path = require('path');
 // enable this so that when there's a login request, the server will check users.json and verify the password
 const UseVerification = false;
 
-const sharedToken = "T_CrackedByBobH233";
+const sharedToken = "T_CrackedByBobH233"; //do not change this or you can't use FakeLocation!!
 const sharedKey = "UsrTjEVxwRaQsvV5hD8I3Db8zrkjuavD/O8hJcVLUOkDimJc6ShgOQEzV5srpEPcOL63J2chFQA=";
 const sharedUserId = "BobH233LoveLerist";
 
